@@ -56,7 +56,7 @@
     "url": "https://github.com/litecoin-project/litecore-p2p.git"
   },
   "dependencies": {
-    "litecore-lib": "^0.13.19",
+    "@hexlant/litecore-lib": "0.13.21",
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"

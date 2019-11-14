@@ -1,6 +1,7 @@
 *.sw[a-z]
 coverage
 node_modules
+.idea
 
 npm-debug.log
 tests.js
